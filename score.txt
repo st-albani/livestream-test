@@ -1,2 +1,2 @@
-Team1;Team2;Team3;Team4;Team5
-AAA;BBB;CCC;DDD;EEE;FFF
+Flag1,Name1,Num1,Flag2,Name2,Num2,Flag3,Name3,Num3,Flag4,Name4,Num4,Flag5,Name5,Num5
+Flag1,AAA,1,Flag2,BBB,2,Flag3,CCC,3,Flag4,DDD,4,Flag5,EEE,5
